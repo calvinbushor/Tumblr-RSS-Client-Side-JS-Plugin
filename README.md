@@ -17,9 +17,9 @@ Start the script by creating a new instance of the tumblr Object.
 
     var tumblr = new TumblrRSS(selector, url, posts);
 
-selector: The jQuery selected element(s) you want to replace with the parsed rss.
-url: The url to the tumblr blog.
-posts: How many posts you want to parse and display.
+* selector: The jQuery selected element(s) you want to replace with the parsed rss.
+* url: The url to the tumblr blog.
+* posts: How many posts you want to parse and display.
 
 Run the script
 ------------------------
